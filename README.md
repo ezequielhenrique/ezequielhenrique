@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :books: I’m currently learning python and javascript
+
 <!--
 **ezequielhenrique/ezequielhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
