@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá 👋
 
-- :books: I’m currently learning python and javascript
+- :books: Atualmente estou aprendendo python e javascript
 
 <!--
 **ezequielhenrique/ezequielhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
