@@ -16,7 +16,9 @@
 
 
 ## ⚡ GitHub Stats
-<div>
+<a href="https://github.com/ezequielhenrique">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ezequielhenrique&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/ezequielhenrique">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhenrique&layout=compact&langs_count=16&theme=prussian"/>
-</div>
+</a>
