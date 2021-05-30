@@ -20,8 +20,8 @@
 ## ⚡ GitHub Stats
 <div>
   <a href="https://github.com/ezequielhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezequielhenrique&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhenrique&layout=compact&langs_count=16&theme=prussian"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ezequielhenrique&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhenrique&layout=compact&langs_count=16&theme=prussian"/>
 <div>
 <!--
 **ezequielhenrique/ezequielhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
