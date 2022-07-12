@@ -1,8 +1,8 @@
-# Hi 👋
+### Olá 👋
 
-## I'm a Computer Engineering Student
+Sou um estudante de engenharia da computação
 
-## 🚀💻 Technologies & Tools
+### 💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-C74634?style=for-the-badge&logo=java&logoColor=white)
@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-html5-red?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-blue?style=for-the-badge&logo=css3&logoColor=white3)
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 <a href="https://github.com/ezequielhenrique">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezequielhenrique&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </a>
