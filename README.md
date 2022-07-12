@@ -1,4 +1,4 @@
-### Olá 👋
+## Olá 👋
 
 Sou um estudante de engenharia da computação
 
