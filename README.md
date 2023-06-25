@@ -14,7 +14,7 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-### 📚 Estudanto no momento
+### 📚 Estudando no momento
 
 <div style="display: inline_block"><br>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
