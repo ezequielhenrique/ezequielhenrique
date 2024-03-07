@@ -3,9 +3,9 @@
 ### Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudandante de Engenharia da Computação na UFRPE.
+- 🎓 Estudante de Engenharia da Computação na UFRPE.
 
-### Veja meus principais projetos 👉 [ezequielhenrique.github.io](https://ezequielhenrique.github.io/)
+### 🚀 Veja meus principais projetos 👉 [ezequielhenrique.github.io](https://ezequielhenrique.github.io/)
 
 ****
 ![Ezequiel Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielhenrique&show_icons=true&theme=shadow_blue)
